@@ -1,0 +1,16 @@
+https://cdn.jsdelivr.net/gh/linkgenrator/GameSitesFILES@main/mizu.svg
+https://fastly.jsdelivr.net/gh/linkgenrator/GameSitesFILES@main/mizu.svg
+https://gcore.jsdelivr.net/gh/linkgenrator/GameSitesFILES@main/mizu.svg
+https://testingcf.jsdelivr.net/gh/linkgenrator/GameSitesFILES@main/mizu.svg
+https://cdn.statically.io/gh/linkgenrator/GameSitesFILES@main/mizu.svg
+https://raw.githack.com/linkgenrator/GameSitesFILES/main/mizu.svg
+https://githubraw.com/linkgenrator/GameSitesFILES/main/mizu.svg
+https://cdn.staticdelivr.com/gh/linkgenrator/GameSitesFILES/main/mizu.svg
+https://raw.githubusercontent.com/linkgenrator/GameSitesFILES/main/mizu.svg
+https://esm.sh/gh/linkgenrator/GameSitesFILES@main/mizu.svg?raw
+https://raw.esm.sh/gh/linkgenrator/GameSitesFILES@main/mizu.svg
+https://ghproxy.net/https://raw.githubusercontent.com/linkgenrator/GameSitesFILES/main/mizu.svg
+https://mirror.ghproxy.com/raw.githubusercontent.com/linkgenrator/GameSitesFILES/main/mizu.svg
+https://raw.kkgithub.com/linkgenrator/GameSitesFILES/main/mizu.svg
+https://raw.staticdn.net/linkgenrator/GameSitesFILES/main/mizu.svg
+https://raw.gitmirror.com/linkgenrator/GameSitesFILES/main/mizu.svg
